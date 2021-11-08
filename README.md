@@ -8,5 +8,10 @@ $starting from 05th Nov'21
 05/11/21
 --> Login page has been developed.
 
-## Next Home card need to be developed.
+07/11/21
+--> Card has been added to home page
+
+
+## Next, connect card with links
+
 
